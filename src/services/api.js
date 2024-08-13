@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_KEY = "szbM16EAhzO0kLss1Ju44HsQ0Yt_BmVLCl__F_lHpCg";
-// /photos/?client_id=YOUR_ACCESS_KEY
+
 axios.defaults.baseURL = "https://api.unsplash.com";
 axios.defaults.params = {
   client_id: API_KEY,
