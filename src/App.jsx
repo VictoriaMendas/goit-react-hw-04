@@ -1,5 +1,5 @@
 import ErrorMessage from "./components/ErrorMessage/ErrorMessage";
-import ImageGallery from "./components/imageGallery/ImageGallery";
+import ImageGallery from "./components/ImageGallery/ImageGallery";
 import ImageModal from "./components/ImageModal/ImageModal";
 import Loader from "./components/Loader/Loader";
 import LoadMoreBtn from "./components/LoadMoreBtn/LoadMoreBtn";
