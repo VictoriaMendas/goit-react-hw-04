@@ -42,6 +42,7 @@ function App() {
   const getQuery = async (query) => {
     setQuery(query);
     setPage(1);
+    console.log(setImages([]));
   };
 
   const onLoadMoreBtn = async () => {

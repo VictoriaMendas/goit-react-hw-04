@@ -8,4 +8,10 @@
 }
 .button {
   display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 8px;
+  border-color: aqua;
+  color: black;
 }
